@@ -1,0 +1,6 @@
+D:\366pi Testing\Appium Testing\UnitTestMocking\ArithmeticOperations\bin\Debug\ArithmeticOperations.dll
+D:\366pi Testing\Appium Testing\UnitTestMocking\ArithmeticOperations\bin\Debug\ArithmeticOperations.pdb
+D:\366pi Testing\Appium Testing\UnitTestMocking\ArithmeticOperations\obj\Debug\ArithmeticOperations.csproj.AssemblyReference.cache
+D:\366pi Testing\Appium Testing\UnitTestMocking\ArithmeticOperations\obj\Debug\ArithmeticOperations.csproj.CoreCompileInputs.cache
+D:\366pi Testing\Appium Testing\UnitTestMocking\ArithmeticOperations\obj\Debug\ArithmeticOperations.dll
+D:\366pi Testing\Appium Testing\UnitTestMocking\ArithmeticOperations\obj\Debug\ArithmeticOperations.pdb
