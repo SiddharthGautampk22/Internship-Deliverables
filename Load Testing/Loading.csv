@@ -1,0 +1,10 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1673930769539,503,SimpliLEarn,200,OK,Thread Group 1-1,text,true,,279261,242,1,1,https://www.simplilearn.com/,129,0,87
+1673930769539,132,SimpliLEarn-0,301,Moved Permanently,Thread Group 1-1,text,true,,569,121,1,1,http://www.simplilearn.com/,129,0,87
+1673930769672,370,SimpliLEarn-1,200,OK,Thread Group 1-1,text,true,,278692,121,1,1,https://www.simplilearn.com/,293,0,261
+1673930770043,79,Resources,200,OK,Thread Group 1-1,text,true,,223399,260,1,1,https://www.simplilearn.com/resources,23,0,0
+1673930770043,23,Resources-0,301,Moved Permanently,Thread Group 1-1,text,true,,578,130,1,1,http://www.simplilearn.com/resources,23,0,0
+1673930770066,56,Resources-1,200,OK,Thread Group 1-1,text,true,,222821,130,1,1,https://www.simplilearn.com/resources,27,0,0
+1673930770122,62,Training,200,OK,Thread Group 1-1,text,true,,217581,278,1,1,https://www.simplilearn.com/corporate-training,24,0,0
+1673930770122,24,Training-0,301,Moved Permanently,Thread Group 1-1,text,true,,587,139,1,1,http://www.simplilearn.com/corporate-training,24,0,0
+1673930770146,38,Training-1,200,OK,Thread Group 1-1,text,true,,216994,139,1,1,https://www.simplilearn.com/corporate-training,26,0,0
